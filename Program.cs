@@ -1,4 +1,4 @@
-using Methods.Models;
+using Methods;
 
 Console.WriteLine( "\v\tHELLO, METHODS\n" );
 
