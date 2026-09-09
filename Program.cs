@@ -1,3 +1,4 @@
+using System;
 using Methods;
 
 Console.WriteLine( "\v\tHELLO, METHODS\n" );
